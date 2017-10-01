@@ -4,6 +4,13 @@
 #     [ statement-to-be-evaluated ]
 # as opposed to the newer
 #     [[ statement-to-be-evaluated ]]
+#
+# On this newer syntax you could use compare operator (>=, <, !=, ==)
+# to compare integers. Some of which you use in the same(*) way as 
+# with strings (not having to use -lt, -eq, etc.)
+#
+# (*) The only difference is the _equal_ operator. On the old syntax
+# you use only one `=` on the newer you use two `==`
 
 NUM_REQUIRED_ARGS=2
 

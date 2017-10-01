@@ -1,5 +1,5 @@
 # Shortcuts to move faster in Bash command line
-(Shamelessly copied from [Huiming Teo])
+(Copied from [Huiming Teo])
 
 Some content extracted from the **"Command Line Editing"** section in [the bash manual]. Apparently the bash manual is a well-written documentation and we should read it more often.
 
