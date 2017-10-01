@@ -1,4 +1,4 @@
-# Bash scripting (very) basics
+# Exploring bash
 
 This repo is the output of following the youtube playlist **The Linux Basics Course** 9 lessons about **Bash Scripting** ([link](https://www.youtube.com/watch?v=xtS2NiABf54&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK&index=28))
 
